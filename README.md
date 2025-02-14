@@ -11,7 +11,6 @@ This project is a **PostgreSQL database** designed to store and manage Steam gam
 ## Features  
 ✔ **Optimized Queries** – Partitioning improves search performance  
 ✔ **Structured Data** – Organizes games by release date, price, and playtime  
-✔ **Easy Data Import** – Supports bulk data loading via CSV  
 
 ## Sample Data  
 You can download the sample dataset from the link below:  
